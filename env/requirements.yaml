@@ -25,3 +25,6 @@ dependencies:
 - name: ttc-connectors-ranking
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.20
+- name: ttc-rb-english-campaign
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 1.0.0
