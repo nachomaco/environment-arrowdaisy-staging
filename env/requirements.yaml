@@ -16,3 +16,6 @@ dependencies:
 - name: ttc-connectors-dummytwitter
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.40
+- name: ttc-query-campaign
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 1.0.24
